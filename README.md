@@ -24,7 +24,7 @@ Recent EEG foundation models rely predominantly on self-supervised learning (SSL
 **STEM** (**S**ubject- and **T**ask-Aware **E**EG Foundation **M**odel) addresses this gap by actively leveraging available semantic information. It disentangles feature representations into **subject-aware** and **task-aware** components by integrating metric-based meta-learning with contrastive self-supervision, maximizing the utility of semantic labels to guide the learning of robust features.
 
 <p align="center">
-  <img src="assets/framework.png" width="100%" alt="STEM framework overview"/>
+  <img src="fig/framework.png" width="100%" alt="STEM framework overview"/>
 </p>
 
 <p align="center"><i>
