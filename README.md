@@ -2,10 +2,9 @@
 
 Official PyTorch implementation of **"Subject- and Task-Aware EEG Foundation Model"** (MICCAI 2026).
 
-[![Paper](https://img.shields.io/badge/Paper-MICCAI%202026-blue)]()
-[![Python](https://img.shields.io/badge/Python-3.9%2B-brightgreen)]()
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+## Code coming soon.
+We are currently cleaning up the code and will release it here shortly.
+
 
 > **Sion An**¹, **Soopil Kim**², and **Sang Hyun Park**¹ ³ ✉
 >
