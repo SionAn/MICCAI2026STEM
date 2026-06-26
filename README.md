@@ -8,8 +8,8 @@ We are currently cleaning up the code and will release it here shortly.
 
 > **Sion An**¹, **Soopil Kim**², and **Sang Hyun Park**¹ ³ ✉
 >
-> ¹ Graduate School of Artificial Intelligence, POSTECH, Pohang, Republic of Korea
-> ² AX Research Group for Semiconductors, DGIST, Daegu, Republic of Korea
+> ¹ Graduate School of Artificial Intelligence, POSTECH, Pohang, Republic of Korea \
+> ² AX Research Group for Semiconductors, DGIST, Daegu, Republic of Korea\
 > ³ Department of Computer Science & Engineering, POSTECH, Pohang, Republic of Korea
 >
 > ✉ Corresponding author
