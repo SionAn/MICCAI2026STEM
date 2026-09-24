@@ -1,0 +1,11 @@
+# training / evaluation
+torch>=2.0
+numpy
+scikit-learn
+
+# preprocessing
+scipy
+mne
+braindecode
+moabb
+tqdm
